@@ -43,6 +43,7 @@ body::before {
 h1 {
   text-align: center;
   font-size: 3rem;
+  padding-bottom: 2rem;
 }
 
 input {
