@@ -45,12 +45,6 @@ h1 {
   font-size: 3rem;
 }
 
-label {
-  display: block;
-  margin-top: 1rem;
-  font-size: 2rem;
-}
-
 input {
   width: 100%;
   padding: 1.5rem;
